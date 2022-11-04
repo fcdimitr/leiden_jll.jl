@@ -1,0 +1,17 @@
+[[leiden]]
+arch = "x86_64"
+git-tree-sha1 = "5c4042dab37047ec33f9e3321085b46fcd6058d1"
+os = "macos"
+
+    [[leiden.download]]
+    sha256 = "65677a574d641ecc4bbb97b5d29941a8577b9b11506fbb8a3e62209082611c27"
+    url = "https://github.com/fcdimitr/leiden_jll.jl/releases/download/leiden-v0.8.2+0/leiden.v0.8.2.x86_64-apple-darwin.tar.gz"
+[[leiden]]
+arch = "x86_64"
+git-tree-sha1 = "b40c212cd140da68c184b6b1cf4f2e5292d8d81d"
+libc = "glibc"
+os = "linux"
+
+    [[leiden.download]]
+    sha256 = "8b4e9158437dd2b7520b974ed72d58066f7af9ccf94e432f9da13d9f66a85135"
+    url = "https://github.com/fcdimitr/leiden_jll.jl/releases/download/leiden-v0.8.2+0/leiden.v0.8.2.x86_64-linux-gnu.tar.gz"
